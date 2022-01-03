@@ -11,6 +11,6 @@ updates:
   schedule:
     interval: daily
   pull-request-branch-name:
-    separator: "-"https://github.com/Autofleet/.github
+    separator: "-"
   registries:
   - npm-registry-registry-npmjs-org
