@@ -6,7 +6,7 @@
 
 
 # The yoshi-nodejs team is the default owner for nodejs repositories.
-*     @Autofleet/r-d
+*     @autofleet/r-d @autofleet/code-reviewers
 
 # The github automation team is the default owner for the auto-approve file.
-.github/* @Autofleet/github-automation
+.github/* @Autofleet/github-automation @autofleet/code-reviewers
