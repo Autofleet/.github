@@ -4,8 +4,10 @@
 # For syntax help see:
 # https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners#codeowners-syntax
 
-* @autofleet/r-d @autofleet/code-reviewers
+* @autofleet/code-reviewers
 
-.github/* @Autofleet/github-automation @autofleet/code-reviewers
+## * @autofleet/r-d @autofleet/code-reviewers
 
-.github/auto-approve.yml @autofleet/code-reviewers @Autofleet/code-reviewers
+## .github/* @Autofleet/github-automation @autofleet/code-reviewers
+
+## .github/auto-approve.yml @autofleet/code-reviewers @Autofleet/code-reviewers
