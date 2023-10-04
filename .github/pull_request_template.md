@@ -3,20 +3,17 @@ Thanks for creating this pull request 🤗
 Please add some information about your change 🔧
 -->
 
-<!-- Here's some templates, uncomment (Command + /) to use them  -->
 
-<!-- 
-## 📝 Jira tickets:
-https://autofleet.atlassian.net/browse/AUT-***
--->
+# ℹ️ PR description:
+`Please describe your changes here`
 
-<!-- 
-## ℹ️ Change description:
-Nothing here
--->
+  
+# 📋 PR tasks:
+- [ ] Meaningful description
+- [ ] Risk Assessment[^1] - 🟢Low 🟡Medium 🔴High 🚫Downtime
+- [ ] Jira - https://autofleet.atlassian.net/browse/AUT-***
+- [ ] Manual QA
+- [ ] E2E test
+- [ ] Code review
 
-<!--
-You can choose PR template by clicking `preview` then clicking one of the templates link:
- - [bug](?expand=1&template=bug.md)
- - [feature](?expand=1&template=feature.md)
--->
+[^1]: [Deploy By Risk Level – FigJam](https://www.figma.com/file/BG9TjNjtsNZ8BuT0AiydLC/Deploy-By-Risk-Level?type=whiteboard&node-id=1%3A2&t=vCoCO5cvH1x7IoxX-1)
