@@ -10,7 +10,10 @@ updates:
   directory: "/"
   schedule:
     interval: daily
+  open-pull-requests-limit: 5
   pull-request-branch-name:
     separator: "-"
+  allow:
+  - dependency-name: "@autofleet/*"
   registries:
   - npm-registry-registry-npmjs-org
