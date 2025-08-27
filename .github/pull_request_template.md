@@ -7,7 +7,7 @@ Please add some information about your change 🔧
 
 <!-- 
 ## 📝 Jira tickets:
-https://autofleet.atlassian.net/browse/AUT-***
+https://autofleet.atlassian.net/browse/AF-***
 -->
 
 <!-- 
